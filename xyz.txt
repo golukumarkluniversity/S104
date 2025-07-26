@@ -1,5 +1,0 @@
-"HI GIT" 
-
-"Welcome GIT"
-
-GIT basics
